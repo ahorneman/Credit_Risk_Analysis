@@ -21,10 +21,9 @@ The purpose was to utilize credit card data and perform machine learning to dete
   - Precision Low Risk: 100%
   - Recall High Risk: 62%
   - Recall Low Risk: 65%
-  - 
+
 ![over acc score](https://user-images.githubusercontent.com/113067853/219503155-3117449c-ebd7-4df1-88dc-4bfba84fac2c.PNG)
 ![over imbala](https://user-images.githubusercontent.com/113067853/219503166-67c3236b-563b-4bd6-aef8-02273a00fe71.PNG)
-
 
 ### Cluster Centroid Undersampling
   - Accuracy Score: 63.6%
@@ -33,9 +32,8 @@ The purpose was to utilize credit card data and perform machine learning to dete
   - Recall High Risk: 59%
   - Recall Low Risk: 44%
 
-![Capture](https://user-images.githubusercontent.com/113067853/219504498-7a882ecb-0a8f-42e0-8b99-d63f85346a16.PNG)
-![bal class](https://user-images.githubusercontent.com/113067853/219503376-1eb3ddd1-dd52-4ee5-aefc-c519426b857f.PNG)
-
+![over acc score](https://user-images.githubusercontent.com/113067853/219506199-ed187be8-83f0-44bf-91cb-b615860e86f1.PNG)
+![over imbala](https://user-images.githubusercontent.com/113067853/219506203-45162cae-e20d-4003-a563-b2de9ae46460.PNG)
 
 ### SMOTEENN Sampling
   - Accuracy Score: 51.2%
