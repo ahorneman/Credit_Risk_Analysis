@@ -11,6 +11,8 @@ The purpose was to utilize credit card data and perform machine learning to dete
   - Precision Low Risk: 100%
   - Recall High Risk: 62%
   - Recall Low Risk: 69%
+![acc score](https://user-images.githubusercontent.com/113067853/219502881-49a77699-16c3-403b-a6bf-b9b5b2750c8b.PNG)
+![imbalance class](https://user-images.githubusercontent.com/113067853/219502900-680e9b1c-3dca-467a-8e4f-7a10615063e3.PNG)
 
 ### SMOTE Oversampling
   - Accuracy Score: 63.6%
