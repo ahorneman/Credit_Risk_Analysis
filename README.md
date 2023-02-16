@@ -21,6 +21,10 @@ The purpose was to utilize credit card data and perform machine learning to dete
   - Precision Low Risk: 100%
   - Recall High Risk: 62%
   - Recall Low Risk: 65%
+  - 
+![over acc score](https://user-images.githubusercontent.com/113067853/219503155-3117449c-ebd7-4df1-88dc-4bfba84fac2c.PNG)
+![over imbala](https://user-images.githubusercontent.com/113067853/219503166-67c3236b-563b-4bd6-aef8-02273a00fe71.PNG)
+
 
 ### Cluster Centroid Undersampling
   - Accuracy Score: 63.6%
@@ -28,6 +32,10 @@ The purpose was to utilize credit card data and perform machine learning to dete
   - Precision Low Risk: 100%
   - Recall High Risk: 59%
   - Recall Low Risk: 44%
+
+![bal acc score](https://user-images.githubusercontent.com/113067853/219503369-a13e1d18-0642-4f1f-84a1-d2f7f8a17be7.PNG)
+![bal class](https://user-images.githubusercontent.com/113067853/219503376-1eb3ddd1-dd52-4ee5-aefc-c519426b857f.PNG)
+
 
 ### SMOTEENN Sampling
   - Accuracy Score: 51.2%
@@ -42,6 +50,10 @@ The purpose was to utilize credit card data and perform machine learning to dete
   - Precision Low Risk: 100%
   - Recall High Risk: 68%
   - Recall Low Risk: 89%
+  
+![balforest acc score](https://user-images.githubusercontent.com/113067853/219503994-f58bf9df-b5ba-400a-b9d4-b64dbe51360f.PNG)
+![balforestclass](https://user-images.githubusercontent.com/113067853/219504002-5fabb9b5-e817-4b1f-98cd-203e113fd05e.PNG)
+
 
 ### Easy Ensemble Classifying
   - Accuracy Score: 91.9%
@@ -49,6 +61,9 @@ The purpose was to utilize credit card data and perform machine learning to dete
   - Precision Low Risk: 100%
   - Recall High Risk: 90%
   - Recall Low Risk: 94%
+ 
+![easyforest acc score](https://user-images.githubusercontent.com/113067853/219503756-1c6638c6-6682-423c-9e6b-93e5292128f8.PNG)
+![easyforest class](https://user-images.githubusercontent.com/113067853/219503762-4873ae57-4638-4833-8240-556ceff7ac49.PNG)
 
 ## Summary
 
