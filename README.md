@@ -33,7 +33,7 @@ The purpose was to utilize credit card data and perform machine learning to dete
   - Recall High Risk: 59%
   - Recall Low Risk: 44%
 
-![bal acc score](https://user-images.githubusercontent.com/113067853/219503369-a13e1d18-0642-4f1f-84a1-d2f7f8a17be7.PNG)
+![Capture](https://user-images.githubusercontent.com/113067853/219504498-7a882ecb-0a8f-42e0-8b99-d63f85346a16.PNG)
 ![bal class](https://user-images.githubusercontent.com/113067853/219503376-1eb3ddd1-dd52-4ee5-aefc-c519426b857f.PNG)
 
 
@@ -43,6 +43,9 @@ The purpose was to utilize credit card data and perform machine learning to dete
   - Precision Low Risk: 100%
   - Recall High Risk: 70%
   - Recall Low Risk: 57%
+ 
+![Capture1](https://user-images.githubusercontent.com/113067853/219504889-a5c50bcd-3908-455b-89fa-053ba4711abf.PNG)
+![Capture2](https://user-images.githubusercontent.com/113067853/219504917-4a9e3749-b779-46ba-ab95-7ce2b2ba8ce2.PNG)
 
 ### Balanced Random Forest Classifying
   - Accuracy Score: 88.8%
